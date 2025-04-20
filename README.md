@@ -57,16 +57,14 @@ The `Main` class demonstrates the behavior of different ducks by creating instan
  ```
 
 # 2. Navigate to the project directory:
- ```cd duck-simulation
- ```
+ ```cd duck-simulation```
 
 # 3. Compile the Java files:
- ```javac *.java
- ```
+ ```javac *.java```
 
 # 4. Run the program:
- ```java Main
- ```
+ ```java Main```
+ 
 ## Example Output
 
 MallardDuck behavior:
