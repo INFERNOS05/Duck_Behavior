@@ -57,13 +57,19 @@ The `Main` class demonstrates the behavior of different ducks by creating instan
  ```
 
 # 2. Navigate to the project directory:
- ```cd duck-simulation```
+ ```bash
+ cd duck-simulation
+```
 
 # 3. Compile the Java files:
- ```javac *.java```
+ ```bash
+ javac *.java
+ ```
 
 # 4. Run the program:
- ```java Main```
+ ```bash
+ java Main
+```
  
 ## Example Output
 
