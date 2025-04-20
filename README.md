@@ -98,7 +98,7 @@ Im Mute
 I am a Decoy Duck.
 
 ## Project Structure
-
+ ```
 ├── Duck.java           # Abstract Duck class
 ├── DuckBehavior.java   # Behavior interface for flying, swimming, and quacking
 ├── FlyBehavior.java    # Interface for fly behaviors
@@ -118,7 +118,7 @@ I am a Decoy Duck.
 ├── Squeak.java         # Squeak behavior
 ├── Main.java           # Main class to demonstrate duck behaviors
 
-
+  ```
 ## Contributing
 
 1. Fork the repository.
